@@ -1,0 +1,28 @@
+.menus-links {
+  display: none;
+}
+.humbugger {
+  display: flex;
+}
+.humbugger i {
+  font-size: 35px;
+}
+.hero h1 {
+  font-size: 40px;
+}
+.hero p {
+  font-size: 15px;
+}
+.yoga .content {
+  width: 400px;
+}
+
+.info-boxes {
+  grid-template-columns: 1fr;
+}
+.info-boxes .box img {
+  width: 400px;
+}
+.info-boxes .box {
+  width: 65%;
+}
