@@ -1,9 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Anybody:wght@100;200;300;400;500;600;700;800;900&display=swap");
 * {
+  /* added universal selector */
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
+
+/* body */
 body {
   font-family: "Anybody", cursive;
   background-color: #dfdfd8;
@@ -14,6 +17,7 @@ body {
   max-width: 1120px;
   margin: auto;
 }
+/* header */
 header {
   padding: 10px;
   height: 70px;
